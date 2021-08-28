@@ -5,4 +5,5 @@ Acesse: <a href="https://markfgui675.github.io/Calculadora/">Clique aqui!</a>
 <br>
 
 ## Print: 
-![image](https://user-images.githubusercontent.com/85682890/129490626-dd94798d-a199-4f11-9434-5421b0946bc9.png)
+![image](https://user-images.githubusercontent.com/85682890/131223582-fa512037-ad2c-4315-93f1-279da9a2112c.png)
+
